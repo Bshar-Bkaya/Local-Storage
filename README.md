@@ -1,2 +1,2 @@
-# Local Storeg
+# Local Storage
 For Bshar
